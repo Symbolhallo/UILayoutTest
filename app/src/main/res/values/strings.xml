@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UILayoutTest</string>
+    <string name="button1_name">Button1</string>
+    <string name="button2_name">Button2</string>
+    <string name="button3_name">Button3</string>
+    <string name="button4_name">Button4</string>
+    <string name="button5_name">Button5</string>
+    <string name="button6_name">Button6</string>
+    <string name="button7_name">Button7</string>
+    <string name="button8_name">Button8</string>
+    <string name="hint_name">Type something</string>
+    <string name="hint1_name">Input your account</string>
+    <string name="text_name">Send</string>
+    <string name="text1_name">Account:</string>
+    <string name="text2_name">Password:</string>
+    <string name="text3_name">Login</string>
+</resources>
